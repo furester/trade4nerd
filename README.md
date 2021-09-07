@@ -16,24 +16,27 @@ Most links contains a referral code, feel free to use one of them to say your ap
 
 ### DEX
 
+- https://bridge.terra.money/ - Web application to transfer Terra's tokens to other blockchain networks
+- https://dyp.finance/bridge - Swap [DYP Token](https://app.dyp.finance/constant-staking-30?r=0x2b8d29bc57e8822e484d6363497e635384c7aa8e) between Ethereum Network and Binance Smart Chain or Avalanche Network
+
 ### CEX
 
-- https://www.binance.com/
-- https://kucoin.com/
-- https://www.bitpanda.com/it
+- [binance.com/](https://accounts.binance.com/en/register?ref=192299240)
+- [kucoin.com/](https://www.kucoin.com/ucenter/signup?rcode=r3V4PW2)
 
 ## Yield Farming
 
+- 
+
 ## Derivates & Synthetic
 
-- https://youtu.be/na6fYbnl308
-- https://mirrortracker.info/strategies/short-buy-neutral
-- https://futures.kucoin.com/trade/LUNAUSDTM
+- [How to leverage aUST and Farms on Mirror Protocol](https://youtu.be/na6fYbnl308) - YouTube video
+- [Strategies on Mirror Finance](https://mirrortracker.info/strategies/short-buy-neutral)
 
 ## Community
 
-- https://www.reddit.com/r/terraluna/
-- https://agora.terra.money/
+- [reddit.com/r/terraluna/](https://www.reddit.com/r/terraluna/) - Terra (terra.money) is a decentralized financial payment network that rebuilds the traditional payment stack on the blockchain.
+- https://agora.terra.money/ - public forum dedicated to Terra’s research efforts.
 - https://medium.com/coinmonks
 
 ## Wallet
@@ -85,8 +88,8 @@ Most links contains a referral code, feel free to use one of them to say your ap
 
 ## Terra Ecosystem
 
-- https://bridge.terra.money/
-- https://www.learn-terra.com/airdrops
-- https://app.terraswap.io/#Provide
-- https://www.terradrops.io/
-- https://terra.smartstake.io/airdrops
+- https://bridge.terra.money/ - Decentralized exchanges (DEX)
+- https://www.learn-terra.com/airdrops - 
+- https://app.terraswap.io/
+- https://www.terradrops.io/ - airdrop hub for Terra Projects.
+- https://terra.smartstake.io/airdrops - Airdrops are a way for new projects to distribute crypto coins/tokens to various wallet addresses. Airdrops are usually free and can be very lucrative, but you can expect certain requirements to claim rewards. 
