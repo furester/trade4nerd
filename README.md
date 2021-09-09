@@ -12,6 +12,9 @@ Most links contains a referral code, feel free to use one of them to say your ap
 
 ## Lending
 
+- https://uniswap.org/
+- https://exchange.dfyn.network/#/swap - For the one interested in USDT-USD pair
+
 ## Exchanges
 
 ### DEX
@@ -26,7 +29,7 @@ Most links contains a referral code, feel free to use one of them to say your ap
 
 ## Yield Farming
 
-- 
+- https://anchorprotocol.com/
 
 ## Derivates & Synthetic
 
@@ -45,12 +48,13 @@ Most links contains a referral code, feel free to use one of them to say your ap
 
 ## Portfolio
 
-- https://apeboard.finance/
+- https://apeboard.finance/ - evolving
 - https://rotki.com/
 - https://github.com/belaczek/hodlwatch
-- https://debank.com/
+- https://debank.com/ - lot of cryptocurrency, lack of Terra Ecosystem
 - https://zapper.fi/it/watchlist
 - https://zerion.io/
+- https://medium.com/coinmonks/track-your-cryptocurrency-assets-near-real-time-using-google-sheets-d76f80f20b16
 
 ## Learn
 
@@ -93,3 +97,7 @@ Most links contains a referral code, feel free to use one of them to say your ap
 - https://app.terraswap.io/
 - https://www.terradrops.io/ - airdrop hub for Terra Projects.
 - https://terra.smartstake.io/airdrops - Airdrops are a way for new projects to distribute crypto coins/tokens to various wallet addresses. Airdrops are usually free and can be very lucrative, but you can expect certain requirements to claim rewards. 
+
+## NFT
+
+- https://opensea.io/
