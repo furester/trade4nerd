@@ -74,10 +74,12 @@ Most links contains a referral code, feel free to use one of them to say your ap
 ### Terra Ecosystem
 
 - https://bridge.terra.money/ - Decentralized exchanges (DEX)
-- https://www.learn-terra.com/airdrops - 
-- https://app.terraswap.io/
-- https://www.terradrops.io/ - airdrop hub for Terra Projects.
+- https://www.learn-terra.com/airdrops - list of active and next airdrops.
+- https://app.terraswap.io/ - open source software and fully decentralized protocol for automated liquidity provision on Terra for of users and DeFi applications.
+- https://www.terradrops.io/ - airdrop hub for Terra Projects. Claim all your airdrops in one transaction without the hassle of visiting each individual protocol.
 - https://terra.smartstake.io/airdrops - Airdrops are a way for new projects to distribute crypto coins/tokens to various wallet addresses. Airdrops are usually free and can be very lucrative, but you can expect certain requirements to claim rewards. 
+- https://terra.smartstake.io/p/launches
+- https://hodlfish.io/ - blockchain tools and protocols.
 
 ## Development
 
