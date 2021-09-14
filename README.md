@@ -49,6 +49,8 @@ Most links contains a referral code, feel free to use one of them to say your ap
 
 - https://station.terra.money/
 - [guarda.co/](https://grd.to/ref/mggY)
+- [coinloan.io](https://app.coinloan.io/signup/?r=3V88XM)
+- https://app.freewallet.org/
 
 ## Portfolio
 
@@ -65,6 +67,13 @@ Most links contains a referral code, feel free to use one of them to say your ap
 
 - https://levelup.gitconnected.com/tradingview-com-charts-36a49c9f77ea
 - https://www.thecryptogateway.it/corso-di-trading-criptovalute-gratuito/principianti/ - [IT]
+
+
+### Strategies
+
+- https://freewallet.org/blog/solid-crypto-portfolio/ - How to build a solid cryptocurrency portfolio.
+- https://cointelegraph.com/news/5-easy-ways-crypto-investors-can-make-money-without-needing-to-trade - make money without needing to trade.
+- https://github.com/freqtrade/freqtrade-strategies
 
 ### DeFi Yield Protocol (DYP)
 
@@ -90,6 +99,12 @@ Most links contains a referral code, feel free to use one of them to say your ap
 - https://docs.terra.money/contracts/tutorial/implementation.html#start-with-a-template
 
 ## Mining
+
+### Pools
+
+- https://minergate.com/internal
+- https://unmineable.com/
+
 
 ## Bot
 
@@ -121,12 +136,6 @@ Open source crypto trading bot written in Python.
 
 - https://www.pionex.com/offers/#/w/grid/pz5NtKnX - Automated Trading Bot.
 - https://medium.com/bituniverse/ftx-grid-bot-5f8663c57e60 - trading bot in the fluctuated market.
-
-## Strategies
-
-- https://freewallet.org/blog/solid-crypto-portfolio/
-- https://cointelegraph.com/news/5-easy-ways-crypto-investors-can-make-money-without-needing-to-trade
-- https://github.com/freqtrade/freqtrade-strategies
 
 ## NFT
 
