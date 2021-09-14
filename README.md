@@ -9,6 +9,7 @@ Most links contains a referral code, feel free to use one of them to say your ap
 
 - https://coinmarketcap.com/
 - https://tradingview.com/
+- https://cryptorank.io/ath - All time high (ATH) price falling, dates, and hits
 
 ## Lending
 
@@ -26,10 +27,12 @@ Most links contains a referral code, feel free to use one of them to say your ap
 
 - [binance.com/](https://accounts.binance.com/en/register?ref=192299240)
 - [kucoin.com/](https://www.kucoin.com/ucenter/signup?rcode=r3V4PW2)
+- https://www.bitpanda.com/it
 
 ## Yield Farming
 
 - https://anchorprotocol.com/
+- https://app.apollo.farm/vaults - Yield optimizer
 
 ## Derivates & Synthetic
 
@@ -40,33 +43,46 @@ Most links contains a referral code, feel free to use one of them to say your ap
 
 - [reddit.com/r/terraluna/](https://www.reddit.com/r/terraluna/) - Terra (terra.money) is a decentralized financial payment network that rebuilds the traditional payment stack on the blockchain.
 - https://agora.terra.money/ - public forum dedicated to Terra’s research efforts.
-- https://medium.com/coinmonks
+- https://medium.com/coinmonks - non-profit crypto educational publication.
 
 ## Wallet
 
 - https://station.terra.money/
+- [guarda.co/](https://grd.to/ref/mggY)
 
 ## Portfolio
 
 - https://apeboard.finance/ - evolving
-- https://rotki.com/
-- https://github.com/belaczek/hodlwatch
+- https://rotki.com/ - self hosted open source portfolio tracker, accounting and analytics
+- https://github.com/belaczek/hodlwatch - web app for automatic crypto portfolio tracking.
 - https://debank.com/ - lot of cryptocurrency, lack of Terra Ecosystem
 - https://zapper.fi/it/watchlist
 - https://zerion.io/
 - https://medium.com/coinmonks/track-your-cryptocurrency-assets-near-real-time-using-google-sheets-d76f80f20b16
+- https://www.thecryptogateway.it/monitor-portafoglio-criptovalute-e-trades/
 
 ## Learn
 
 - https://levelup.gitconnected.com/tradingview-com-charts-36a49c9f77ea
+- https://www.thecryptogateway.it/corso-di-trading-criptovalute-gratuito/principianti/ - [IT]
+
+### DeFi Yield Protocol (DYP)
+
 - https://www.youtube.com/c/DeFiYieldProtocol/videos
 - https://dypfinance.medium.com/
-- https://www.thecryptogateway.it/corso-di-trading-criptovalute-gratuito/principianti/
+
+### Terra Ecosystem
+
+- https://bridge.terra.money/ - Decentralized exchanges (DEX)
+- https://www.learn-terra.com/airdrops - 
+- https://app.terraswap.io/
+- https://www.terradrops.io/ - airdrop hub for Terra Projects.
+- https://terra.smartstake.io/airdrops - Airdrops are a way for new projects to distribute crypto coins/tokens to various wallet addresses. Airdrops are usually free and can be very lucrative, but you can expect certain requirements to claim rewards. 
 
 ## Development
 
 - https://github.com/terra-money/testnet/tree/master/bombay-9
-- https://developers.tron.network/
+- https://developers.tron.network/ - TRON developer hub. Guides and documentation to start working with TRON.
 - https://www.dappuniversity.com/
 - https://min-api.cryptocompare.com/documentation?key=News&cat=latestNewsArticlesEndpoint
 - https://docs.terra.money/contracts/tutorial/implementation.html#start-with-a-template
@@ -75,28 +91,40 @@ Most links contains a referral code, feel free to use one of them to say your ap
 
 ## Bot
 
-- https://superalgos.org/media-articles.shtml
+### Superalgos
+
+Free and Open-Source Crypto Trading Bots.
+
+- https://superalgos.org/index.shtml
+- https://superalgos.org/media-articles.shtml - article about topics relevant to Superalgos, such as crypto trading bots, trading automation, data science, or collective intelligence.
+
+### PyCryptoBot
+
+Spot trading bot written in python.
+
 - https://github.com/whittlem/pycryptobot
-- https://whittle.medium.com/
-- https://medium.com/coinmonks/pycryptobot-results-and-config-57fb6625a6d9
-- https://github.com/yanone/raspberrypycryptobot
-- https://www.pionex.com/offers/#/w/grid/pz5NtKnX
-- https://medium.com/bituniverse/ftx-grid-bot-5f8663c57e60
+- https://medium.com/coinmonks/pycryptobot-results-and-config-57fb6625a6d9 - pycryptobot results and the config.
+- https://whittle.medium.com/ - medium articles from pycryptobot creator.
+- https://github.com/yanone/raspberrypycryptobot - Installing pycryptobot on a Raspberry Pi.
+
+### Freqtrade
+
+Open source crypto trading bot written in Python.
+
 - https://github.com/freqtrade/freqtrade
+- https://www.freqtrade.io/en/stable/configuration/ - freqtrade configuration.
+- https://github.com/freqtrade/freqtrade-strategies - free buy/sell strategies for Freqtrade.
+
+### Others
+
+- https://www.pionex.com/offers/#/w/grid/pz5NtKnX - Automated Trading Bot.
+- https://medium.com/bituniverse/ftx-grid-bot-5f8663c57e60 - trading bot in the fluctuated market.
 
 ## Strategies
 
 - https://freewallet.org/blog/solid-crypto-portfolio/
 - https://cointelegraph.com/news/5-easy-ways-crypto-investors-can-make-money-without-needing-to-trade
 - https://github.com/freqtrade/freqtrade-strategies
-
-## Terra Ecosystem
-
-- https://bridge.terra.money/ - Decentralized exchanges (DEX)
-- https://www.learn-terra.com/airdrops - 
-- https://app.terraswap.io/
-- https://www.terradrops.io/ - airdrop hub for Terra Projects.
-- https://terra.smartstake.io/airdrops - Airdrops are a way for new projects to distribute crypto coins/tokens to various wallet addresses. Airdrops are usually free and can be very lucrative, but you can expect certain requirements to claim rewards. 
 
 ## NFT
 
