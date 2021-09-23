@@ -22,6 +22,7 @@ Most links contains a referral code, feel free to use one of them to say your ap
 
 - https://bridge.terra.money/ - Web application to transfer Terra's tokens to other blockchain networks
 - https://dyp.finance/bridge - Swap [DYP Token](https://app.dyp.finance/constant-staking-30?r=0x2b8d29bc57e8822e484d6363497e635384c7aa8e) between Ethereum Network and Binance Smart Chain or Avalanche Network
+- [loop.markets](https://www.loop.markets?ref=76791) - Tokenized DEX on Terra
 
 ### CEX
 
@@ -44,6 +45,7 @@ Most links contains a referral code, feel free to use one of them to say your ap
 - [reddit.com/r/terraluna/](https://www.reddit.com/r/terraluna/) - Terra (terra.money) is a decentralized financial payment network that rebuilds the traditional payment stack on the blockchain.
 - https://agora.terra.money/ - public forum dedicated to Terra’s research efforts.
 - https://medium.com/coinmonks - non-profit crypto educational publication.
+- [loop.markets](https://www.loop.markets?ref=76791) - Tokenized Community on Terra
 
 ## Wallet
 
@@ -77,6 +79,7 @@ Most links contains a referral code, feel free to use one of them to say your ap
 
 ### DeFi Yield Protocol (DYP)
 
+- https://dyp.finance/
 - https://www.youtube.com/c/DeFiYieldProtocol/videos
 - https://dypfinance.medium.com/
 
