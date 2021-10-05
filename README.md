@@ -10,6 +10,7 @@ Most links contains a referral code, feel free to use one of them to say your ap
 - https://coinmarketcap.com/
 - https://tradingview.com/
 - https://cryptorank.io/ath - All time high (ATH) price falling, dates, and hits
+- https://thecoinperspective.com/compare/terra-luna
 
 ## Lending
 
@@ -29,6 +30,7 @@ Most links contains a referral code, feel free to use one of them to say your ap
 - [binance.com/](https://accounts.binance.com/en/register?ref=192299240)
 - [kucoin.com/](https://www.kucoin.com/ucenter/signup?rcode=r3V4PW2)
 - https://www.bitpanda.com/it
+- [huobi.com](https://www.huobi.com/en-us/topic/welcome-bonus/?invite_code=uwk43223)
 
 ## Yield Farming
 
@@ -64,6 +66,7 @@ Most links contains a referral code, feel free to use one of them to say your ap
 - https://zerion.io/
 - https://medium.com/coinmonks/track-your-cryptocurrency-assets-near-real-time-using-google-sheets-d76f80f20b16
 - https://www.thecryptogateway.it/monitor-portafoglio-criptovalute-e-trades/
+- https://www.tefi.app/dashboard
 
 ## Learn
 
@@ -76,6 +79,7 @@ Most links contains a referral code, feel free to use one of them to say your ap
 - https://freewallet.org/blog/solid-crypto-portfolio/ - How to build a solid cryptocurrency portfolio.
 - https://cointelegraph.com/news/5-easy-ways-crypto-investors-can-make-money-without-needing-to-trade - make money without needing to trade.
 - https://github.com/freqtrade/freqtrade-strategies
+- https://www.reddit.com/r/terraluna/comments/pwnom0/what_is_your_strategy_to_accumulate_more_luna/
 
 ### DeFi Yield Protocol (DYP)
 
@@ -92,6 +96,17 @@ Most links contains a referral code, feel free to use one of them to say your ap
 - https://terra.smartstake.io/airdrops - Airdrops are a way for new projects to distribute crypto coins/tokens to various wallet addresses. Airdrops are usually free and can be very lucrative, but you can expect certain requirements to claim rewards. 
 - https://terra.smartstake.io/p/launches
 - https://hodlfish.io/ - blockchain tools and protocols.
+
+#### Mirror
+
+- https://terra.mirror.finance/
+- https://alpac4.com/TerraSwapDashboard/terra1ze5f2lm5clq2cdd9y2ve3lglfrq6ap8cqncld8
+- https://mirrortracker.info/strategies/short-long-buy-neutral
+- https://www.youtube.com/watch?v=na6fYbnl308
+
+### BittorrentToken
+
+- https://www.reddit.com/r/BittorrentToken/
 
 ## Development
 
